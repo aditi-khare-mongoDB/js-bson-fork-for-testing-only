@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [6.7.1](https://github.com/aditi-khare-mongoDB/js-bson-fork-for-testing-only/compare/v6.7.0...v6.7.1) (2024-05-22)
+
+
+### Performance Improvements
+
+* **NODE-6126:** improve Long.fromBigInt performance ([#681](https://github.com/aditi-khare-mongoDB/js-bson-fork-for-testing-only/issues/681)) ([63eafcb](https://github.com/aditi-khare-mongoDB/js-bson-fork-for-testing-only/commit/63eafcba392956674ebfecc6d8df6ff1719839ed))
+
 ## [6.7.0](https://github.com/mongodb/js-bson/compare/v6.6.0...v6.7.0) (2024-05-01)
 
 
